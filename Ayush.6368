@@ -1,0 +1,11 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ayush Business Website</title>
+</head>
+<body>
+    <h1>Welcome to Ayush Business</h1>
+    <p>This is my first website hosted on GitHub Pages.</p>
+</body>
+</html>
